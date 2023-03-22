@@ -5,10 +5,12 @@
 
 ## Stack utilizada ⚛️
 **Back-end:** Node.JS, Express, Knex.js
+
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 **Banco de Dados:** SQLite
+
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Funcionalidades ⚙️
