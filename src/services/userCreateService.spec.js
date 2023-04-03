@@ -3,8 +3,8 @@ const UserRepositoryInMemory = require('../repositories/UserRepositoryInMemory')
 const AppError = require("../utils/AppError")
 
 describe("UserCreateService", () => {
-  const userRepositoryInMemory = null
-  const userCreateService = null
+  let userRepositoryInMemory = null
+  let userCreateService = null
 
   beforeEach(() => {
     userRepositoryInMemory = new UserRepositoryInMemory()
